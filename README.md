@@ -1,8 +1,5 @@
 # projets
 
-## Puissance 4
-- Le programme en C
-- La stratégie du puissance 4
-- La documention du programme
+Voici les projets (SAE) que j'ai pu réaliser durant mon BUT Informatique 
 
-## Site web SPORT KOH
+
